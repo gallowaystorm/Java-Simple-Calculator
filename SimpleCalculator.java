@@ -32,7 +32,7 @@ public class SimpleCalculator {
         //white space
         System.out.println("");
         
-        System.out.print("What math function do you wish to do? (add, subtract, multiply, divide): ");
+        System.out.print("What function do you wish to do? (add, subtract, multiply, divide): ");
         mathFunction = input.next();
         
         //white space
